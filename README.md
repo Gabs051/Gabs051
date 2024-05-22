@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World, My name is Gabriel. I'm a gaucho who is passionate about programming.
+Because of the fact that everything I do in my daily life someone or some people managed to write,
+so I thing about how the human mind is created.
 
 <!--
 **Gabs051/Gabs051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
