@@ -1,5 +1,5 @@
 <div align="center">
-  ## Hello World, My name is Gabriel. I'm a gaucho who is passionate about programming. Because of the fact that everything I do in my daily life someone or some people managed to write, so I thing about how the human mind is created.
+  Hello World, My name is Gabriel. I'm a gaucho who is passionate about programming. Because of the fact that everything I do in my daily life someone or some people managed to write, so I thing about how the human mind is created.
 </div>
 
 <div align="center">
