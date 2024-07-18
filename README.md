@@ -1,5 +1,4 @@
 <div align="center">
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&weight=900&duration=3500&color=FFFFFF&background=FFFFFF00&vCenter=true&width=1000&height=60&lines=🙋🏻‍♀️+Hello+World+,+My+name+is+Gabriel.)
   <h3>Hello World, My name is Gabriel. I'm a gaucho who is passionate about programming. Because of the fact that everything I do in my daily life someone or some people managed to write, so I thing about how the human mind is created.</h3>
 </div>
 
