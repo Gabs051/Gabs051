@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Hello World, My name is Gabriel. I'm a gaucho who is passionate about programming. Because of the fact that everything I do in my daily life someone or some people managed to write, so I think about how the human mind is created.</h3>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=02A700&width=435&lines=Hello+World%2C+My+name+is+Gabriel.+I'm+a+gaucho+who+is+passionate+about+programming.+Because+of+the+fact+that+everything+I+do+in+my+daily+life+someone+or+some+people+managed+to+write%2C+so+I+think+about+how+the+human+mind+is+created.)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
@@ -19,6 +19,13 @@
   <a href="https://www.linkedin.com/in/gabsoli" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>   
+</div>
+
+<div align="center">
+  <h3>
+    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="50">
+    <span id="typing-text"></span>
+  </h3>
 </div>
 
 <div align="center">
