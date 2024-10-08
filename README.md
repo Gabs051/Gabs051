@@ -1,8 +1,5 @@
 <div align="center">
-  <h3>
-    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="50">
-    <span id="typing-text"></span>
-  </h3>
+  <h3>Hello World, My name is Gabriel. I'm a gaucho who is passionate about programming. Because of the fact that everything I do in my daily life someone or some people managed to write, so I think about how the human mind is created.</h3>
 </div>
 
 <div align="center">
@@ -20,7 +17,7 @@
     <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/gabsoli" target="_blank">
-    <img loading="lazy" src="https://img.shields.io-badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>   
 </div>
 
@@ -32,18 +29,3 @@
   </p> 
   <br>
 </div>
-
-<script>
-  const text = "Hello World, My name is Gabriel. I'm a gaucho who is passionate about programming. Because of the fact that everything I do in my daily life someone or some people managed to write, so I think about how the human mind is created.";
-  let index = 0;
-
-  function typeText() {
-    if (index < text.length) {
-      document.getElementById("typing-text").innerHTML += text.charAt(index);
-      index++;
-      setTimeout(typeText, 50);
-    }
-  }
-
-  typeText();
-</script>
