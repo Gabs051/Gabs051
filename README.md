@@ -1,5 +1,7 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=02A700&width=435&lines=Hello+World%2C+My+name+is+Gabriel.+I'm+a+gaucho+who+is+passionate+about+programming.+Because+of+the+fact+that+everything+I+do+in+my+daily+life+someone+or+some+people+managed+to+write%2C+so+I+think+about+how+the+human+mind+is+created." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=02A700&width=435&lines=Hello+World%2C+My+name+is+Gabriel.+I'm+a+gaucho+who+is+passionate+about+programming.+Because+of+the+fact+that+everything+I+do+in+my+daily+life+someone+or+some+people+managed+to+write%2C+so+I+think+about+how+the+human+mind+is+created." alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
@@ -23,8 +25,10 @@
 
 <div align="center">
   <h3>
-    <div class="tenor-gif-embed" data-postid="1711673062073441211" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/dev-gif-1711673062073441211">Dev GIF</a>from <a href="https://tenor.com/search/dev-gifs">Dev GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-    <span id="typing-text"></span>
+    <div class="tenor-gif-embed" data-postid="1711673062073441211" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+      <a href="https://tenor.com/view/dev-gif-1711673062073441211">Dev GIF</a> from <a href="https://tenor.com/search/dev-gifs">Dev GIFs</a>
+    </div>
+    <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   </h3>
 </div>
 
