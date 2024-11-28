@@ -24,11 +24,6 @@
 </div>
 
 <div align="center">
-  <p align="center"><b>Music Of Day</b></p>
-    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4Uiw0Sl9yskBaC6P4DcdVD?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</div>
-
-<div align="center">
   <br>
   <p align="center"><b>Visitors Count</b></p>  
   <p align="center">
